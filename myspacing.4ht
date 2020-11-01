@@ -1,0 +1,5 @@
+\ConfigureEnv{onehalf}{%
+\ifvmode\IgnorePar\fi \EndP\HCode{<div class="onehalf">}\par}
+{\ifvmode\IgnorePar\fi \EndP\HCode{</div>}\par}
+{}{}
+\Css{.onehalf{line-height:150\%;}}
